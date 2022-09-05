@@ -4,6 +4,8 @@ Github.com:
    ->.gitignore template = Python
    -> privé
 -> Clone Repo: git clone "lien du projet"
--> Commit
--> Push
-->log en ligne
+-> Commit: créer le fichier dans projet locale puis
+         git add "nom du fichier"
+	   git commit -m "description du commit"
+-> Push : git push
+->log en ligne : voir s'il est mise à jour en ligne
