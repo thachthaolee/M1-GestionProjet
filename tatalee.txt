@@ -5,6 +5,7 @@ Github.com:
    -> privé
 -> Clone Repo: git clone "lien du projet"
 -> Commit: créer le fichier dans projet locale puis
+	   git status
          git add "nom du fichier"
 	   git commit -m "description du commit"
 -> Push : git push
