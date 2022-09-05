@@ -1,0 +1,9 @@
+Github.com:
+- créer compte
+- créer nouveau Repository
+   ->.gitignore template = Python
+   -> privé
+-> Clone Repo: git clone "lien du projet"
+-> Commit
+-> Push
+->log en ligne
